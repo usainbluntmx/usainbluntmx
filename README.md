@@ -94,17 +94,6 @@ const richiXBT = {
 
 ---
 
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=usainbluntmx&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=8)](https://github.com/usainbluntmx)
-
-</div>
-
----
-
 <!-- CURRENTLY BUILDING -->
 ## 🔨 Currently Building
 
